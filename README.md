@@ -1,4 +1,4 @@
-# imageprocesssing
+# image and video processsing
 projects for image processing and feature extraction
 1.	Parallel data processing of Radon transform used in signature image verification systems.
 2.	Efficiency improvement for signature image verification systems using DSP coprocessor.
